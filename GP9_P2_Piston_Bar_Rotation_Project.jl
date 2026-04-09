@@ -223,7 +223,7 @@ begin
 	θ30 = 0.0               # initial angle
 	# Verify these track angles from your original assignment
 	α1 = π/4                  # example: 45 deg
-	α2 = 3*π/4                  # example: 45 deg (shift in angle accounted for later)
+	α2 = 3*π/4                # example: 135 deg
 end
 
 # ╔═╡ fbe15d42-7162-4218-88e1-018ed677b3f0
